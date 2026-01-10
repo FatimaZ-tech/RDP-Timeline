@@ -74,8 +74,8 @@ Supported logs:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/FatimaZ-tech/RDP-Timeline.git
-cd RDP-Timeline
+git clone https://github.com/FatimaZ-tech/RDPTimeline.git
+cd RDPTimeline
 pip install -r requirements.txt
 ```
 ---
