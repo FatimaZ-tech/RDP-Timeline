@@ -75,7 +75,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/FatimaZ-tech/RDP-Timeline.git
-cd rdptrace
+cd RDP-Timeline
 pip install -r requirements.txt
 ```
 ---
